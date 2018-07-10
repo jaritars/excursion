@@ -1,0 +1,25 @@
+html {
+  background-color: black;
+  font-family: Verdana;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+}
+
+.download a {
+  font-size: 16px;
+  color: aquamarine;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px
+}
+
+.camping {
+  font-size: 21px;
+}
